@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://github.com/Rem1xF9/Porfolio_DEMO" rel="noopener" target="_blank">
-      <img width="200" src="images.jpg" alt="Logo" />
+      <img width="250" src="images.jpg" alt="Logo" />
     </a>
   </div>
   
